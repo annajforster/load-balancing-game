@@ -9,8 +9,6 @@ The game is built for teams of **3–6 people**, split into two roles — **gene
 and **network operators** — who must work together to hold frequency against a
 day's load profile while faults strike the network at random.
 
-![Block diagram of the mock power network](block_diagram.png)
-
 ## What the activity is about
 
 The game centres on a mock power network and the balancing act of managing load and
